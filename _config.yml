@@ -1,0 +1,28 @@
+name: teest
+favicon: null
+layout_spectrum: 0.6745516092050821
+typography_spectrum: 0.0639222429599613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.18119847448542714
+  lightness: 0.05108155682682991
+  saturation: 0.27396405721083283
+  rhythmicContrast: 0.017690989654511213
+purpose: []
