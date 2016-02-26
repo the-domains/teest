@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[teest]]></title>
+        <description><![CDATA[teest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 05:43:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Early Mornings Are Beautiful]]></title>
+            <description><![CDATA[<article><h1>Early Mornings Are Beautiful</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bffc89f-cc41-4f89-bb26-ec04af71feb7.png"></article>]]></description>
+            <link>undefinedearly-mornings-are-beautiful/index.html</link>
+            <guid isPermaLink="false">e7e95edc-baf9-482d-b6c4-ca4472090dd7</guid>
+            <pubDate>Fri, 26 Feb 2016 05:43:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
