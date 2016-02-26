@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[teest]]></title>
         <description><![CDATA[teest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/teest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 05:43:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 05:45:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The beauty our nature offers.]]></title>
+            <description><![CDATA[<article><h1>The beauty our nature offers.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcc8c1d4-b5f8-4037-a6fb-267d102dfe82.png"></article>]]></description>
+            <link>https://thegrid.ai/teest/the-beauty-our-nature-offers/index.html</link>
+            <guid isPermaLink="false">e3f693c7-93be-49a5-bee8-62a85553a9e8</guid>
+            <pubDate>Fri, 26 Feb 2016 05:42:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Early Mornings Are Beautiful]]></title>
-            <description><![CDATA[<article><h1>Early Mornings Are Beautiful</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bffc89f-cc41-4f89-bb26-ec04af71feb7.png"></article>]]></description>
-            <link>undefinedearly-mornings-are-beautiful/index.html</link>
+            <description><![CDATA[<article><h1>Early Mornings Are Beautiful</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e400a286f4fbdba82aeffe6beac5523037a720d.png"></article>]]></description>
+            <link>https://thegrid.ai/teest/early-mornings-are-beautiful/index.html</link>
             <guid isPermaLink="false">e7e95edc-baf9-482d-b6c4-ca4472090dd7</guid>
             <pubDate>Fri, 26 Feb 2016 05:43:07 GMT</pubDate>
         </item>
